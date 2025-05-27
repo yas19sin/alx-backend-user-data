@@ -1,5 +1,13 @@
-*/venv/*
-*/__pycache__/*
+# Ignore virtual environments
+**/venv/
+venv/
+
+# Ignore Python cache files
+**/__pycache__/
+*.py[cod]
+*$py.class
+
+# Specific project files
 0x00-personal_data/main.sql
 0x00-personal_data/main_task4.sql
 0x00-personal_data/test_task0.py
