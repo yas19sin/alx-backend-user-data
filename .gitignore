@@ -16,3 +16,8 @@ venv/
 0x00-personal_data/test_task5.py
 0x00-personal_data/test_task6.py
 0x00-personal_data/test_task3.py
+0x02-Session_authentication/SESSION_AUTH_SUMMARY.md
+0x02-Session_authentication/test_session_auth.py
+0x02-Session_authentication/.db_UserSession.json
+0x02-Session_authentication/main_*.py
+0x02-Session_authentication/.db_User.json
