@@ -11,13 +11,10 @@ venv/
 0x00-personal_data/main.sql
 0x00-personal_data/main_task4.sql
 0x00-personal_data/test_task0.py
-0x00-personal_data/test_task1.py
-0x00-personal_data/test_task2.py
-0x00-personal_data/test_task5.py
-0x00-personal_data/test_task6.py
-0x00-personal_data/test_task3.py
+test_*.py
 0x02-Session_authentication/SESSION_AUTH_SUMMARY.md
-0x02-Session_authentication/test_session_auth.py
 0x02-Session_authentication/.db_UserSession.json
-0x02-Session_authentication/main_*.py
+main_*.py
 0x02-Session_authentication/.db_User.json
+*.db
+*.txt
